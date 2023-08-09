@@ -1,0 +1,43 @@
+.header{
+    background-color: black;
+    padding: 10px 20px;
+    opacity: 1;
+}
+.iner-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menulist{
+    display: flex;
+    gap: 25px;
+    text-transform: uppercase;
+}
+.title a{
+    color: #F9FAFD!important;
+    font-size: xx-large !important;
+    font-weight: 700!important;
+     text-transform: uppercase;
+}
+.menulist{
+    color: #F9FAFD;
+    font-size: x-large;
+    font-weight: 600;
+}
+.brown a{
+    color: #B98F7D;
+    
+}
+.call{
+    display: flex;
+    align-items: flex-end;
+    gap: 25px;
+}
+.phone{
+    color: #B98F7D;
+    
+}
+.number{
+    font-size: x-large;
+    color: #F9FAFD;
+}

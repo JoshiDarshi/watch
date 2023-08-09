@@ -1,0 +1,14 @@
+.brandsection{
+    background-color: #212121;
+    padding: 10px;
+}
+.img1 img{
+    height: 60px;
+    width: 100%;
+}
+.row1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
+}

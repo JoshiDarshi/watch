@@ -1,0 +1,31 @@
+.store-section{
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.mainstore{
+    display: flex;
+}
+.image img{
+    height: 500px;
+    width: 100%;
+}
+.storecontent{
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.storecontent h3 {
+    color: #F9FAFD;
+    margin-top: 40px;
+    font-size: 5.728rem;
+    text-align: left;
+    font-weight: 700;
+}
+.storecontent p{
+    color: #F9FAFD;
+    height: fit-content;
+    width: 700px;
+    margin-top: 80px;
+    opacity: .7;
+    font-size: large;
+}

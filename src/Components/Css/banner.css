@@ -1,0 +1,35 @@
+.banner-section{
+    background-image:url(/src/Components/Images/header-bg.png);
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 100%;
+}
+.content h1{
+    color: floralwhite;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 20%;
+    font-size: calc(1.55498rem + 3.65978vw);
+    font-weight: 900;
+    line-height: 1.25;
+    
+}
+.main-btn{
+    margin-top: 40px;
+}
+.btn1{
+    padding: 10px 15px;
+    border-color: #B98F7D;
+    color: #B98F7D;
+    background-color: black;
+    font-weight: 600;
+    font-size: large;
+    transition: ease-in-out 4s;
+    text-transform: uppercase;
+}
+.space{
+    margin-left: 25px;
+}

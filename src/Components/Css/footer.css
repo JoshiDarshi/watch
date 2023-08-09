@@ -1,0 +1,42 @@
+.footersection{
+    background-color: black;
+    padding: 10px;
+    border-bottom: 1px solid white;
+    height: 250px;
+}
+.fooflex{
+    display: flex;
+    justify-content: space-between;
+}
+.watch h1{
+    color: aliceblue;
+}
+.menu h1{
+    color: aliceblue;
+}
+.menulist2{
+    color: aliceblue;
+    opacity: .6;
+    font-size: 16px;
+    font-weight: 900;
+    line-height: 3.25rem;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+.forinflex{
+    display: flex;
+}
+.btnfooter{
+    background-color: #B98F7D;
+    color: aliceblue;
+    font-size: 19px;
+    font-weight:800 ;
+    
+}
+input{
+    border-radius: 0;
+}
+.black{
+    background-color: black;
+    height: 40px;
+}
